@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.79.4
 	github.com/google/osv-scanner v1.9.2
-	github.com/google/osv-scanner/v2 v2.0.2
+	github.com/google/osv-scanner/v2 v2.0.3
 	github.com/google/renameio v1.0.1
 	gocloud.dev v0.41.0
 	gopkg.in/yaml.v3 v3.0.1
